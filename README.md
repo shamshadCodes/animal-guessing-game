@@ -1,5 +1,5 @@
 # Animal guessing game
-We're going to write a console-based 'animal guessing game'.  Here's an example of the input and output of the program:
+Here's an example of the input and output of the program. Type npm start in the terminal to play:
 
 ```
 Computer: Think of an animal
@@ -96,10 +96,3 @@ Human:    no
 
 (program exits)
 ```
-
-### Part 1
-Implement the game described above as a console app.  Use the `readline-sync` package for reading input from the console.
-
-### Part 2
-Make the program 'learned' data persistent.  Save the data to a file on exit, then load it when the program starts.
-
