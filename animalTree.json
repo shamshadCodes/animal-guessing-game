@@ -1,0 +1,1 @@
+{"size":4,"root":{"data":[null,"Is it carnivorous?"],"left":{"data":["Duck",null],"left":null,"right":null},"right":{"data":[null,"Can it fly?"],"left":{"data":[null,"Does it run fast?"],"left":{"data":["Bear",null],"left":null,"right":null},"right":{"data":["Tiger",null],"left":null,"right":null}},"right":{"data":["Eagle",null],"left":null,"right":null}}}}

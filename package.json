@@ -1,0 +1,24 @@
+{
+  "name": "day38-project-friday-animal-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shamshadCodes/animal-guessing-game.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shamshadCodes/animal-guessing-game/issues"
+  },
+  "homepage": "https://github.com/shamshadCodes/animal-guessing-game#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
